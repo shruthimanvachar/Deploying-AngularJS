@@ -1,4 +1,4 @@
-#Deploying AngularJS
+# Deploying AngularJS
 
 # `angular-seed` — the seed for AngularJS apps
 
